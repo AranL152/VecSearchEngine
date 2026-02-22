@@ -1,0 +1,163 @@
+[
+  {
+    "collection": "Gaia Collection",
+    "name": "Nude Candle",
+    "price_usd": 68.0,
+    "product_url": "https://sundayeditionstudio.com/products/nude-candle",
+    "description": "The distant crackle of a fire. A cashmere blanket against bare skin. The warmth of someone you love. Time slows, stands still; this room a sanctuary. Surrender to the dance of it all, twirling through the intoxicating sweetness of apricot and pear, layered with soft white patchouli. Draw close, as traces of delicious vanilla and warm amber envelop you in their embrace. The world outside your window continues its gentle hum, but here, this moment is all that matters. Allow it to capture you, like something out of a dream.",
+    "scent_notes": {
+      "top": ["Orange Peel", "Apricot", "Nashi Pear"],
+      "heart": ["Jasmine Sambac Absolute", "White Patchouli"],
+      "base": ["Madagascar Vanilla", "Amber", "Oud Wood"]
+    },
+    "details": {
+      "size_oz": 9,
+      "size_g": 255,
+      "burn_time_hours": "60+",
+      "wax": "Coconut + soy wax blend",
+      "wick": "Premium cotton wick",
+      "free_of": ["Parabens", "Phthalates"],
+      "vessel": "Reusable ceramic vessel",
+      "packaging": "Plastic free packaging",
+      "made_in": "New York City"
+    }
+  },
+  {
+    "collection": "Gaia Collection",
+    "name": "Root Candle",
+    "price_usd": 68.0,
+    "product_url": "https://sundayeditionstudio.com/products/root-candle",
+    "description": "Hands in rich, dark soil, where early seeds grow into lush promise. A garden nurtured with hope and expectation. The aroma of the earth coming to life. Greenery surrounds, lightly grazing your ankles as you walk through this open field. Welcome summer’s glorious bounty, in notes of vivacious mint, garden herbs, and soothing chrysanthemums. This fragrance a ceremony grounded by base notes of patchouli, guaiac wood, and clove leaf. Witness this growth, this abundance: a reminder that the seeds you cultivate will one day bloom.",
+    "scent_notes": {
+      "top": ["White Tea", "Mint", "Green Fig"],
+      "heart": ["Garden Herbs", "Wild Flowers", "Chrysanthemum"],
+      "base": ["Guaiac Wood", "Clove Leaf", "Patchouli"]
+    },
+    "details": {
+      "size_oz": 9,
+      "size_g": 255,
+      "burn_time_hours": "60+",
+      "wax": "Coconut + soy wax blend",
+      "wick": "Premium cotton wick",
+      "free_of": ["Parabens", "Phthalates"],
+      "vessel": "Reusable ceramic vessel",
+      "packaging": "Plastic free packaging",
+      "made_in": "New York City"
+    }
+  },
+  {
+    "collection": "Gaia Collection",
+    "name": "Ash Candle",
+    "price_usd": 68.0,
+    "product_url": "https://sundayeditionstudio.com/products/ash-candle",
+    "description": "The evening beckons, as night falls, and stars glitter. Two glasses meet, their chime a pleasant harmony. Among the sweetness of black plumb and the tenderness of rose petals, conversation flourishes. Revel in the romance, the timeless luxury; like the pleasure of a black and white movie. Notice the warmth you feel, inspired by the richness of ambrette seeds and vetiver. Then, float into the stillness of the night, and the scent of the earth. Behind you, a memory remains, cloaked in darkness.",
+    "scent_notes": {
+      "top": ["Black Plum", "French Marigold"],
+      "heart": ["Rose Petals", "Clove", "Neroli Blanc"],
+      "base": ["Ambrette Seed", "Vetiver", "Sandalwood"]
+    },
+    "details": {
+      "size_oz": 9,
+      "size_g": 255,
+      "burn_time_hours": "60+",
+      "wax": "Coconut + soy wax blend",
+      "wick": "Premium cotton wick",
+      "free_of": ["Parabens", "Phthalates"],
+      "vessel": "Reusable ceramic vessel",
+      "packaging": "Plastic free packaging",
+      "made_in": "New York City"
+    }
+  },
+  {
+    "collection": "Gaia Collection",
+    "name": "Dusk Candle",
+    "price_usd": 68.0,
+    "product_url": "https://sundayeditionstudio.com/products/dusk-candle",
+    "description": "Warm colors spill onto the canvas of an open sky. In the distance, laughter echoes. This day that once felt endless, coming to a close. The flame begins her slow dance, flickering as dusk descends. And for a moment, everything is illuminated. Breathe in the delicate smell of rose petals, punctuated by buttery soft hints of orris. Remember the sand on your skin; that effortless feeling. Watch the sun as she dips below the horizon, carrying the memories of a sunkissed afternoon. In her wake, a marriage of musk, patchouli, and sandalwood.",
+    "scent_notes": {
+      "top": ["Blackberry", "Rhubarb"],
+      "heart": ["Rose Petals", "Turkish Rose Absolute", "Orris"],
+      "base": ["Musk", "Patchouli", "Sandalwood"]
+    },
+    "details": {
+      "size_oz": 9,
+      "size_g": 255,
+      "burn_time_hours": "60+",
+      "wax": "Coconut + soy wax blend",
+      "wick": "Premium cotton wick",
+      "free_of": ["Parabens", "Phthalates"],
+      "vessel": "Reusable ceramic vessel",
+      "packaging": "Plastic free packaging",
+      "made_in": "New York City"
+    }
+  },
+  {
+    "collection": "Gaia Collection",
+    "name": "Dawn Candle",
+    "price_usd": 68.0,
+    "product_url": "https://sundayeditionstudio.com/products/dawn-candle",
+    "description": "Carried from crisp sheets into the quiet of the morning. The first glimmers of light leaking through a crack in the curtains. Outside, a soothing wake up call, as a bird begins her song. Soft steps on the hardwood floor, steam rising from a cup of tea; move slowly through this magic. Dawn sparkles, and thoughts stir awake in a tango of citrus, white lily, and peony. Anchored by clary sage and cedarwood, a new day stretches ahead, under rays of golden sunshine.",
+    "scent_notes": {
+      "top": ["Grapefruit", "Mandarin", "Agave Nectar"],
+      "heart": ["White Lily", "Peony", "Amber Salt"],
+      "base": ["Musk", "Clary Sage", "Cedarwood"]
+    },
+    "details": {
+      "size_oz": 9,
+      "size_g": 255,
+      "burn_time_hours": "60+",
+      "wax": "Coconut + soy wax blend",
+      "wick": "Premium cotton wick",
+      "free_of": ["Parabens", "Phthalates"],
+      "vessel": "Reusable ceramic vessel",
+      "packaging": "Plastic free packaging",
+      "made_in": "New York City"
+    }
+  },
+  {
+    "collection": "Gaia Collection",
+    "name": "Eve Candle",
+    "price_usd": 68.0,
+    "product_url": "https://sundayeditionstudio.com/products/eve-candle",
+    "description": "Glasses clink, laughter spills into the air, and the fire casts a golden glow over the night. The scent of ripe Mediterranean figs mingles with bright bergamot and creamy coconut, a prelude to the stories unfolding between sips of wine. Incense swirls through the space, entwined with jasmine and the green depth of galbanum, rising like echoes of conversation. As the evening lingers, ambergris and cedarwood settle in, grounding the moment in warmth and familiarity. Time moves effortlessly here, between friends, between memories old and new. The night is young, and the fire is still burning.",
+    "scent_notes": {
+      "top": ["Mediterranean Fig", "Bergamot", "Coconut"],
+      "heart": ["Galbanum", "Jasmine", "Incense"],
+      "base": ["Ambregris", "Cedarwood", "Patchouli"]
+    },
+    "details": {
+      "size_oz": 9,
+      "size_g": 255,
+      "burn_time_hours": "60+",
+      "wax": "Coconut + soy wax blend",
+      "wick": "Premium cotton wick",
+      "free_of": ["Parabens", "Phthalates"],
+      "vessel": "Reusable ceramic vessel",
+      "packaging": "Plastic free packaging",
+      "made_in": "New York City"
+    }
+  },
+  {
+    "collection": "Gaia Collection",
+    "name": "Home Candle",
+    "price_usd": 68.0,
+    "product_url": "https://sundayeditionstudio.com/products/home-candle",
+    "description": "The key turns, the door eases open, and the day exhales with you. Warmth greets you first, the quiet spice of ginger and cardamom curling into the air, laced with the familiar sweetness of fennel. Here, time moves gently. The scent of clover and hemp drifts in like a deep breath, grounding, effortless, wrapped in the delicate floral touch of ylang-ylang. In the distance, palo santo smolders, its sacred wood mingling with ambergris and vetiver, a whisper of comfort that lingers long after the flame has dimmed. This is more than a place—it’s a feeling. A refuge. A sanctuary. You are home.",
+    "scent_notes": {
+      "top": ["Ginger", "Cardamom", "Fennel"],
+      "heart": ["Clover", "Hemp", "Ylang-Yalng"],
+      "base": ["Ambregris", "Palo Santo Wood", "Vetiver"]
+    },
+    "details": {
+      "size_oz": 9,
+      "size_g": 255,
+      "burn_time_hours": "60+",
+      "wax": "Coconut + soy wax blend",
+      "wick": "Premium cotton wick",
+      "free_of": ["Parabens", "Phthalates"],
+      "vessel": "Reusable ceramic vessel",
+      "packaging": "Plastic free packaging",
+      "made_in": "New York City"
+    }
+  }
+]
